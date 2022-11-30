@@ -19,15 +19,15 @@ I have extended the due dates for the issues remaining of this project. Reason b
 <br />&emsp;[HtttDelete] - Used to delete a device specified by the device ID.
 
 <br />**In my ZoneController.cs i've implemented the following functionalities:**
-<br />  [HttpGet] - That retrieves all the zones in the database, as well as only per zone ID.
-<br />  [HttpPost] - Create a new zone entry on the database.
-<br />  [HttpPut] - Used to update a zone specified by the zone ID.
-<br />  [HtttDelete] - Used to delete a zone specified by the zone ID.
+<br />&emsp;[HttpGet] - That retrieves all the zones in the database, as well as only per zone ID.
+<br />&emsp;[HttpPost] - Create a new zone entry on the database.
+<br />&emsp;[HttpPut] - Used to update a zone specified by the zone ID.
+<br />&emsp;[HtttDelete] - Used to delete a zone specified by the zone ID.
 
 <br />**In my DeviceController.cs i've implemented the following functionalities:**
-<br />  [HttpGet] - That retrieves all the zones in the database, as well as only per zone ID.
-<br />  [HttpPost] - Create a new zone entry on the database.
-<br />  [HttpPut] - Used to update a zone specified by the zone ID.
-<br />  [HtttDelete] - Used to delete a zone specified by the zone ID.
+<br />&emsp;[HttpGet] - That retrieves all the zones in the database, as well as only per zone ID.
+<br />&emsp;[HttpPost] - Create a new zone entry on the database.
+<br />&emsp;[HttpPut] - Used to update a zone specified by the zone ID.
+<br />&emsp;[HtttDelete] - Used to delete a zone specified by the zone ID.
 
 **Note:** I will continue to perfect my API, since there are still errors persisting while using Swagger or Postman.
