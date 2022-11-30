@@ -9,14 +9,14 @@ This repository will be used to host all the work done for Project 2 - API Devel
 
 I have extended the due dates for the issues remaining of this project. Reason being that my machine is having a lot of trouble with processing, and consistantly throws out a bluescreen of death.
 
-#About my API:
+# About my API:
 <br />I took the code first approach in developing my API.
 
 <br />**In my DeviceController.cs i've implemented the following functionalities:**
-<br />  [HttpGet] - That retrieves all the devices in the database, as well as only per device ID.
-<br />  [HttpPost] - Create a new device entry on the database.
-<br />  [HttpPut] - Used to update a device specified by the device ID.
-<br />  [HtttDelete] - Used to delete a device specified by the device ID.
+<br />&emsp;[HttpGet] - That retrieves all the devices in the database, as well as only per device ID.
+<br />&emsp;[HttpPost] - Create a new device entry on the database.
+<br />&emsp;[HttpPut] - Used to update a device specified by the device ID.
+<br />&emsp;[HtttDelete] - Used to delete a device specified by the device ID.
 
 <br />**In my ZoneController.cs i've implemented the following functionalities:**
 <br />  [HttpGet] - That retrieves all the zones in the database, as well as only per zone ID.
